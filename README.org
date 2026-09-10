@@ -1,0 +1,10 @@
+* objc
+
+The LispWorks Objective-C and Cocoa interface, reimplemented for SBCL
+on macOS.
+
+|---------+---------------------------------------|
+| source  | git:https://github.com/lispnik/objc.git |
+| commit  | 0000000                               |
+| systems | objc objc/examples                    |
+|---------+---------------------------------------|
