@@ -5,6 +5,6 @@ on macOS.
 
 |---------+---------------------------------------|
 | source  | git:https://github.com/lispnik/objc.git |
-| commit  | 305766f                               |
+| commit  | 5acd120                               |
 | systems | objc                                   |
 |---------+---------------------------------------|
